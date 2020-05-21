@@ -28,7 +28,7 @@ export default class Card extends Component {
           </Text>
           <Text
             style={{
-              fontSize: 15,
+              fontSize: 12,
               color: "#BEC4C9",
               letterSpacing: -0.5,
               paddingVertical: 5,
